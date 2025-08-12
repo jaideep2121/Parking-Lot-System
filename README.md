@@ -25,5 +25,5 @@ Designed for scalability and real-world parking operations.
 
 ---
 
-## 📂 Project Structure
+
 
